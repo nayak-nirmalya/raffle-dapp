@@ -15,3 +15,5 @@ npm run build
 npx hardhat node
 npx hardhat run .\scripts\mockOffchain.js --network localhost
 ```
+
+## Check out the Next.js front-end code [here](https://github.com/nayak-nirmalya/raffle-dapp-front-end) ##
